@@ -21,7 +21,9 @@
     "homepage": "https://github.com/olemart1n/joker#readme",
     "type": "module",
     "dependencies": {
-        "one-liner-joke": "^1.2.2",
+        "one-liner-joke": "^1.2.2"
+    },
+    "devDependencies": {
         "prettier": "^2.7.1"
     }
 }
