@@ -1,2 +1,5 @@
+# Mac OS System file
+.DS_Store
+
 #NPM FOLDERS TO BE IGNORED
 /node_modules
