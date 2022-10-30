@@ -1,22 +1,23 @@
 {
-  "name": "environment",
-  "version": "1.0.0",
-  "description": "learning about environment",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/olemart1n/joker.git"
-  },
-  "keywords": [
-    "learn"
-  ],
-  "author": "ole",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/olemart1n/joker/issues"
-  },
-  "homepage": "https://github.com/olemart1n/joker#readme"
+    "name": "environment",
+    "version": "1.0.0",
+    "description": "learning about environment",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/olemart1n/joker.git"
+    },
+    "keywords": [
+        "learn"
+    ],
+    "author": "ole",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/olemart1n/joker/issues"
+    },
+    "homepage": "https://github.com/olemart1n/joker#readme",
+    "type": "module"
 }
