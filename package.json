@@ -1,6 +1,6 @@
 {
     "name": "environment",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "learning about environment",
     "main": "index.js",
     "scripts": {
