@@ -19,5 +19,8 @@
         "url": "https://github.com/olemart1n/joker/issues"
     },
     "homepage": "https://github.com/olemart1n/joker#readme",
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "one-liner-joke": "^1.2.2"
+    }
 }
