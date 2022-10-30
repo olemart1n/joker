@@ -3,3 +3,4 @@
 
 #NPM FOLDERS TO BE IGNORED
 /node_modules
+.eslintcache
